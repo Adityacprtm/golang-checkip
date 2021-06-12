@@ -1,4 +1,6 @@
-# Check Public IP using Golang
+# Check Public IP using Golang 
+
+[![CircleCI](https://circleci.com/gh/Adityacprtm/golang-checkip.svg?style=svg)](https://circleci.com/gh/Adityacprtm/golang-checkip)
 
 Continuous Integration and Deployment (CI/CD) using Heroku to deploy Golang application through CircleCI using Docker.
 
