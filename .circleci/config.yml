@@ -21,6 +21,7 @@ jobs:
             docker build -t adityacprtm/$IMAGE_NAME:latest -t adityacprtm/$IMAGE_NAME:$TAG .
             docker images
             docker login -u $DOCKER_LOGIN -p $DOCKER_PWD
+            docker push adityacprtm/$IMAGE_NAME:$TAG
             docker push adityacprtm/$IMAGE_NAME
   deploy:
     executor: heroku/default
