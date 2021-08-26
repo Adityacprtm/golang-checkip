@@ -39,9 +39,7 @@ Continuous Integration and Deployment (CI/CD) using Heroku to deploy Golang appl
 
 ### Built With
 
-* [Strapi](https://strapi.io/) as Backend
-* [Vue.js](https://vuejs.org/) as Frontend
-* [MongoDB](https://www.mongodb.com/) as Database
+* Golang
 
 <!-- GETTING STARTED -->
 ## Getting Started
